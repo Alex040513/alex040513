@@ -1,4 +1,4 @@
-### Hi there 👋
+learn how to use pr
 
 <!--
 **Alex040513/alex040513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
